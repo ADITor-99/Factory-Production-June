@@ -1,0 +1,5 @@
+Kept only version of 1 of recipes in KFC
+Added recipe for chicken fillet 61-70% for GFC
+Removed archived recipe of chicken strips regular GFM3001237098
+Removed archived recipe of NF13001490858 royal beef burger mix
+Removed version 2 of NF13001370160
